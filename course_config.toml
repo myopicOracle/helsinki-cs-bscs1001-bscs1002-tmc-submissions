@@ -287,3 +287,31 @@ checksum = "f3d4614493e0c29e7262da19266dd2cb"
 [exercises.part04-38_grade_statistics]
 id = 272895
 checksum = "a0659c42eec2020cabde74b1d1873d08"
+
+[exercises.part05-01_longest_string]
+id = 272859
+checksum = "27bfd4904f6f7fce0948d3ea35f8a110"
+
+[exercises.part05-02_number_of_elements]
+id = 272864
+checksum = "daa5bfff71ba9901481f670ee8065e96"
+
+[exercises.part05-03_go]
+id = 272877
+checksum = "825aa0b64f9de5d9cde4e32f9988a93f"
+
+[exercises.part05-04_sudoku_row]
+id = 272860
+checksum = "0fdc4c67ccae6e33480418eb380e416d"
+
+[exercises.part05-05_sudoku_column]
+id = 272868
+checksum = "7ea5c1b5783cbd4b3e8db8d7ad38b53d"
+
+[exercises.part05-06_sudoku_block]
+id = 272867
+checksum = "f9f7cc09e2657e8f222371f620d9dfbb"
+
+[exercises.part05-07_sudoku_grid]
+id = 272865
+checksum = "667bfcafa21b221fbc167499fdd02da2"
