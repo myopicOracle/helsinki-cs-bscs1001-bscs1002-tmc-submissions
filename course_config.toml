@@ -375,3 +375,23 @@ checksum = "9662cac645d8335994fe842be6d101c0"
 [exercises.part05-22_find_movies]
 id = 272863
 checksum = "5f7310035359bed7b9bbfc90c8e19ac6"
+
+[exercises.part05-23_create_tuple]
+id = 272871
+checksum = "4493c2d1f146469d8ddfa3f48bfa278d"
+
+[exercises.part05-24_oldest_person]
+id = 272853
+checksum = "34d827930b2ba8e29f5914c24b04a9b7"
+
+[exercises.part05-25_older_people]
+id = 272866
+checksum = "dd08c2cbd9a60168a0ea077c9f3901d1"
+
+[exercises.part05-26_student_database]
+id = 272875
+checksum = "2340604c86baff1659158177ee516486"
+
+[exercises.part05-27_letter_square]
+id = 272870
+checksum = "cb44a7e4ee917326d644868da2fd9668"
