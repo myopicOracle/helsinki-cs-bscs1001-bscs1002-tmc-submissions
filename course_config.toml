@@ -395,3 +395,39 @@ checksum = "2340604c86baff1659158177ee516486"
 [exercises.part05-27_letter_square]
 id = 272870
 checksum = "cb44a7e4ee917326d644868da2fd9668"
+
+[exercises.part06-01_largest_number]
+id = 272995
+checksum = "128f64f61b34cdeec87708de88a4f9f2"
+
+[exercises.part06-02_fruit_market]
+id = 272981
+checksum = "dc40a9c36ce4038ee8100bf5498661dd"
+
+[exercises.part06-03_matrix]
+id = 272977
+checksum = "4ca789bffb78151c36976c7ef8309757"
+
+[exercises.part06-04_course_grading_part_1]
+id = 272980
+checksum = "f35fad9f23560cad46fa224a80b946bc"
+
+[exercises.part06-05_course_grading_part_2]
+id = 272992
+checksum = "fef60ecdc1aca0b6e24d7a4befd63664"
+
+[exercises.part06-06_course_grading_part_3]
+id = 272986
+checksum = "e65f42cdd26f9a438b783c494644d201"
+
+[exercises.part06-07_spellchecker]
+id = 272994
+checksum = "088b17d99e1c2c5b09593131a9c0d6cd"
+
+[exercises.part06-08_recipe_search]
+id = 272987
+checksum = "4d9a4ab2e3b1b7fe0ceddac2318e05e2"
+
+[exercises.part06-09_city_bikes]
+id = 272990
+checksum = "d40a7c30e1a54b037676efbfd086b130"
