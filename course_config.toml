@@ -431,3 +431,15 @@ checksum = "4d9a4ab2e3b1b7fe0ceddac2318e05e2"
 [exercises.part06-09_city_bikes]
 id = 272990
 checksum = "d40a7c30e1a54b037676efbfd086b130"
+
+[exercises.part06-10_inscription]
+id = 272985
+checksum = "a15aa87ce7179f4985a59b911cc05f1d"
+
+[exercises.part06-11_diary]
+id = 272984
+checksum = "bd775e74ffbf5f33d346ce56b26c47a2"
+
+[exercises.part06-12_filtering_file_contents]
+id = 272993
+checksum = "97ac5cf1169e630c0e03b66f78c58534"
