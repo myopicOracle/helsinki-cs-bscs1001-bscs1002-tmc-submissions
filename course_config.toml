@@ -443,3 +443,11 @@ checksum = "bd775e74ffbf5f33d346ce56b26c47a2"
 [exercises.part06-12_filtering_file_contents]
 id = 272993
 checksum = "97ac5cf1169e630c0e03b66f78c58534"
+
+[exercises.part06-13_store_personal_data]
+id = 272978
+checksum = "be9444864d1f253ca7af07eaeca1a204"
+
+[exercises.part06-14_course_grading_part_4]
+id = 272979
+checksum = "f394a67c340097c6605ec49d86ae6076"
