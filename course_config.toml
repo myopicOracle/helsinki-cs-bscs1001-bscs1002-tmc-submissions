@@ -451,3 +451,7 @@ checksum = "be9444864d1f253ca7af07eaeca1a204"
 [exercises.part06-14_course_grading_part_4]
 id = 272979
 checksum = "f394a67c340097c6605ec49d86ae6076"
+
+[exercises.part06-15_word_search]
+id = 272983
+checksum = "d8921112956d26782ac7f20887d9f309"
